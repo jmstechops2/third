@@ -4,3 +4,4 @@ second changes in remote repo:wq
 this is new line in local
 this is remote changes
 this is writen by madhu
+added remote madhu line
